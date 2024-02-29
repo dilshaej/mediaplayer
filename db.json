@@ -1,0 +1,86 @@
+{
+  "videos": [
+    {
+      "id": "93ff",
+      "caption": "Leo-Trailer",
+      "imageURL": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/media_bank/202310/thalapathy-vijay--leo-trailer--leo-055254961-3x4.jpg?VersionId=KyHENRVeoTxwDpgTUBKD.bskddYXVn0I",
+      "youtubeLink": "https://www.youtube.com/embed/Po3jStA673E"
+    },
+    {
+      "id": "7a12",
+      "caption": "Premalu",
+      "imageURL": "https://th-i.thgim.com/public/entertainment/movies/1una70/article67593707.ece/alternates/FREE_1200/PREMALU-HQ-%20For%20Post.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/9_xMvx-vnJ0"
+    },
+    {
+      "id": "454a",
+      "caption": "React",
+      "imageURL": "https://miro.medium.com/v2/resize:fit:1200/1*y6C4nSvy2Woe0m7bWEn4BA.png",
+      "youtubeLink": "https://www.youtube.com/embed/SqcY0GlETPk"
+    },
+    {
+      "id": "1d4b",
+      "caption": "JavaScript",
+      "imageURL": "https://static.javatpoint.com/images/javascript/javascript_logo.png",
+      "youtubeLink": "https://www.youtube.com/embed/W6NZfCO5SIk"
+    }
+  ],
+  "categories": [
+    {
+      "id": "fa14",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "7a12",
+          "caption": "Premalu",
+          "imageURL": "https://th-i.thgim.com/public/entertainment/movies/1una70/article67593707.ece/alternates/FREE_1200/PREMALU-HQ-%20For%20Post.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/9_xMvx-vnJ0"
+        },
+        {
+          "id": "93ff",
+          "caption": "Leo-Trailer",
+          "imageURL": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/media_bank/202310/thalapathy-vijay--leo-trailer--leo-055254961-3x4.jpg?VersionId=KyHENRVeoTxwDpgTUBKD.bskddYXVn0I",
+          "youtubeLink": "https://www.youtube.com/embed/Po3jStA673E"
+        }
+      ]
+    },
+    {
+      "id": "2c8a",
+      "categoryName": "Front End Tools",
+      "allVideos": [
+        {
+          "id": "454a",
+          "caption": "React",
+          "imageURL": "https://miro.medium.com/v2/resize:fit:1200/1*y6C4nSvy2Woe0m7bWEn4BA.png",
+          "youtubeLink": "https://www.youtube.com/embed/SqcY0GlETPk"
+        },
+        {
+          "id": "e8f0",
+          "caption": "Javascript",
+          "imageURL": "https://static.javatpoint.com/images/javascript/javascript_logo.png",
+          "youtubeLink": "https://www.youtube.com/embed/W6NZfCO5SIk"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "798f",
+      "caption": "Leo Trailer",
+      "youtubeLink": "https://www.youtube.com/embed/Po3jStA673E",
+      "timeStamp": "02/23/2024, 08:10:15 PM"
+    },
+    {
+      "id": "23db",
+      "caption": "React",
+      "youtubeLink": "https://www.youtube.com/embed/SqcY0GlETPk",
+      "timeStamp": "02/23/2024, 09:21:54 PM"
+    },
+    {
+      "id": "418b",
+      "caption": "React",
+      "youtubeLink": "https://www.youtube.com/embed/SqcY0GlETPk",
+      "timeStamp": "02/28/2024, 11:07:09 AM"
+    }
+  ]
+}
